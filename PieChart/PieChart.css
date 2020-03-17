@@ -1,0 +1,36 @@
+/* Pie chart assignment is below */
+#piesegment1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+	background-color: red;
+	border-top-left-radius: 200px;
+	
+}
+#piesegment2 {
+    position: absolute;
+    width: 200px;
+	height: 200px;
+	background-color: yellow;
+	border-top-right-radius: 200px;
+	margin-left: 201px;
+}
+#piesegment3 {
+    position: absolute;
+    width: 200px;
+	height: 200px;
+	background-color: green;
+	border-bottom-right-radius: 200px;
+    margin-top: 201px;
+    margin-left: 201px;
+    
+}
+#piesegment4 {
+    position: absolute;
+    width: 200px;
+	height: 200px;
+	background-color: blue;
+	border-bottom-left-radius: 200px;
+    margin-top: 201px;
+    
+}
