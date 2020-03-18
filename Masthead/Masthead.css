@@ -1,0 +1,115 @@
+.masthead {
+    display: flex;
+    position: relative;
+    background-color: black;
+    height: 80px;
+    min-width: 1020px;
+}
+.logo {
+    display: flex;
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    
+}
+.logotext {
+    display: flex;
+    font-weight:;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 16px;
+    margin-left: 4px;    
+}
+
+.searchbar {
+    display: flex;
+    margin-right: 100px;
+    
+}
+
+
+.navbar {
+    display: flex!important;
+    text-decoration: none;
+    margin-top: 18px;
+    margin-left: 20px;
+    margin-right: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#searchbutton {
+    /* display: inline; */
+    background-color: red;
+    height: 25px;
+    color: white;
+    border: none;
+    margin-top: 28px;
+    width: 28px;
+    cursor: pointer;
+}
+
+#searchfield {
+    /* display: inline; */
+    border: none;
+    padding: 5px;
+    margin-top: 28px;
+    width: 200px;
+}
+
+#signin {
+    display: flex!important;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav1, #signin, #signinslash {
+    position: relative;
+    /* right: 10px; */
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    font-size: 12px;
+
+}
+.nav1 {
+    position: absolute;
+    right: 10px;
+}
+
+
+.nav2 {
+    
+    display: flex;
+}
+
+#cart {
+    position: absolute;
+    right: 20px;
+    top: 45px;
+    display: flex!important;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* #svg {
+    background-color: red;
+    cursor: pointer;
+} */
+
+
+
+
+
+
+
+
+/* TOOK FOR EVER TO FIGURE THIS OUT !!!!!!!!!!!! */
